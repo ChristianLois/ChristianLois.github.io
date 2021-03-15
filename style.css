@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    background-position: center;
+    padding: 0;
+    background: #ffc30f;
+    background-size: cover;
+    background-position: center;
+}
+
+.container{
+    position: relative;
+    top: 100px;
+}
+
+.img{
+    background: #ff5733;
+    text-align: center;
+    padding: 20px;
+}
+
+.img2{
+    background: #90073f;
+    text-align: center;
+    margin: 10px;
+}
+
+.img img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+.img2 img{
+    width: 100px;
+    height: 100px;
+}
+
+.text{
+    font-family: "Tahoma MS", sans-serif;
+    text-align: center;
+    background: #41b3a3;
+    color: white;
+    font-size: 20px;
+}
+
